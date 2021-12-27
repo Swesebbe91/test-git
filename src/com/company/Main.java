@@ -11,5 +11,8 @@ public class Main {
     var age = 38;
 
         System.out.println(stringNamn + " är " + age + " år gammal");
+
+        var tal = scanner.nextInt();
+        System.out.println(tal);
     }
 }
