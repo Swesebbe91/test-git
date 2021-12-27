@@ -10,9 +10,10 @@ public class Main {
     var stringNamn = "Connie";
     var age = 38;
 
-        System.out.println(stringNamn + " är " + age + " år gammal");
+        System.out.println(stringNamn + "är " + age + " år gammal");
 
         var tal = scanner.nextInt();
         System.out.println(tal);
+        System.out.println("branch");
     }
 }
