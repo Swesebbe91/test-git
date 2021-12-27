@@ -14,5 +14,8 @@ public class Main {
 
         var tal = scanner.nextInt();
         System.out.println(tal);
+
+        String str= "nu är det jul igen o nu är det jul igen....";
+        System.out.println(str);
     }
 }
