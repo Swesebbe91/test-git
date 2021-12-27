@@ -10,6 +10,6 @@ public class Main {
     var stringNamn = "Connie";
     var age = 38;
 
-        System.out.println(stringNamn + "är " + age + " år gammal");
+        System.out.println(stringNamn + " är " + age + " år gammal");
     }
 }
