@@ -17,5 +17,6 @@ public class Main {
 
         String str= "nu är det jul igen o nu är det jul igen....";
         System.out.println(str);
+        System.out.println(str + "yes");
     }
 }
